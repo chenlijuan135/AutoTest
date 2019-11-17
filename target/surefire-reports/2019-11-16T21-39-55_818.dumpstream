@@ -1,0 +1,7 @@
+# Created at 2019-11-16T21:39:56.671
+Boot Manifest-JAR contains absolute paths in classpath 'D:\juan_test\IdeaMaven-repository\org\apache\maven\surefire\surefire-booter\3.0.0-M3\surefire-booter-3.0.0-M3.jar'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2019-11-16T21:39:59.101
+[AppClassLoader@18b4aac2] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+

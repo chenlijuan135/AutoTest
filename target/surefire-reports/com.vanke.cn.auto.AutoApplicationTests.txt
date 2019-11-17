@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vanke.cn.auto.AutoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.42 s - in com.vanke.cn.auto.AutoApplicationTests
