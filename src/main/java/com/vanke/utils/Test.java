@@ -17,6 +17,5 @@ class Test {
         OutputStream os=new FileOutputStream(new File("D:/test1.xls"));
         ExcelUtil.writeExcel(os);
         ExcelUtil.readExcel(new File("D:/test1.xls"));
-        System.out.println("ss");
     }
 }
